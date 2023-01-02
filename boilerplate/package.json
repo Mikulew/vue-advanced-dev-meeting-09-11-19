@@ -15,7 +15,7 @@
     "*.{js,vue}": "eslint"
   },
   "dependencies": {
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.10.2",
     "cross-env": "^5.2.0",
     "express": "^4.16.4",
     "@nuxtjs/axios": "^5.3.6",
@@ -25,7 +25,7 @@
     "nodemon": "^1.18.9",
     "@nuxtjs/tailwindcss": "^1.0.0",
     "@nuxtjs/eslint-config": "^1.0.1",
-    "@nuxtjs/eslint-module": "^1.0.0",
+    "@nuxtjs/eslint-module": "^1.2.0",
     "babel-eslint": "^10.0.1",
     "eslint": "^6.1.0",
     "eslint-plugin-nuxt": ">=0.4.2",
