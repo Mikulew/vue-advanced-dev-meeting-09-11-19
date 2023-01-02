@@ -22,7 +22,7 @@
     "@nuxtjs/pwa": "^3.0.0-0"
   },
   "devDependencies": {
-    "nodemon": "^1.18.9",
+    "nodemon": "^2.0.20",
     "@nuxtjs/tailwindcss": "^1.0.0",
     "@nuxtjs/eslint-config": "^1.0.1",
     "@nuxtjs/eslint-module": "^1.2.0",
